@@ -1,0 +1,10 @@
+# Ejercicio Clases Python
+
+
+LOS EJERCICIOS DE PYTHON DE CLASES:
+
++ EJ_1 --> PERSONAS
++ EJ_2 --> ELECTRODOMESTICOS
++ EJ_3 --> SERIES
++ EJ_4 --> POLÍGONOS
++ EJ_5 --> EMPRESA
